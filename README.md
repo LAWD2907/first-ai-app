@@ -1,7 +1,7 @@
 # 🚀 My First AI App
 
 > LAWD's journey from zero to a deployed AI application.
-> Built during the **Build Your First AI App** bootcamp with [cloudwithshad](https://ai-with-python-for-all.netlify.app/).
+> Built during the **"Build Your First AI App"** bootcamp with [cloudwithshad](https://ai-with-python-for-all.netlify.app/).
 
 **👤 Name:** DAGBATSA LAWRENCE
 **📅 Cohort:** July 2026
